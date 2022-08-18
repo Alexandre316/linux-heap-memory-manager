@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++17 -g -Wall  -rdynamic CMakeFiles/main.dir/src/mm.cpp.o CMakeFiles/main.dir/src/testapp.cpp.o CMakeFiles/main.dir/src/gluethread/glthread.cpp.o  -o main 

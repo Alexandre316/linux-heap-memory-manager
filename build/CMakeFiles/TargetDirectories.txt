@@ -1,0 +1,3 @@
+/home/luguangqi/linux-memory-manager/build/CMakeFiles/rebuild_cache.dir
+/home/luguangqi/linux-memory-manager/build/CMakeFiles/edit_cache.dir
+/home/luguangqi/linux-memory-manager/build/CMakeFiles/main.dir
